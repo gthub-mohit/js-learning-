@@ -1,0 +1,18 @@
+// "use strict"; this is used to make everything run in the newer rules of js not required tho as by default it is implied
+// alert("HELLO WELCOME") website pr jo bhi shuru me alert aata hai in a small box vo isse aata hai pr ye node me use nahi hota hai ... browser me hota hai 
+// alert(3+3) 
+
+let a="MOHIT" //string data type
+let age=19 //number data type
+let count= false //boolean
+console.log(typeof(count)) //isse kisi bhi variable ka type pata chal skta hai
+
+// TYPE OF DATATYPES
+// number 
+// bigint 
+// String
+// Boolean
+// null=> isme agar typeof use krenge to object dikhayega
+// undefined=> isme agar typeof use krenge to undefined hi dikhayega
+// Symbol
+// object
